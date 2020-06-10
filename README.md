@@ -14,8 +14,6 @@ The purpose of this library is overwrite the current of focus layout (at logic l
 
 ## Usage
 ```javascript
-import {TVRCHandler, FocusableNode} from 'react-native-focus-graph';
-
 import React from 'react';
 import {StyleSheet, View, TouchableHighlight, Text} from 'react-native';
 import {TVRCHandler, FocusableNode} from 'react-native-focus-graph';
