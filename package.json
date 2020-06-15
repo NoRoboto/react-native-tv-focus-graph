@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NoRoboto/react-native-focus-graph.git",
-    "baseUrl": "https://github.com/NoRoboto/react-native-focus-graph"
+    "url": "git+https://github.com/NoRoboto/react-native-tv-focus-graph.git",
+    "baseUrl": "https://github.com/NoRoboto/react-native-tv-focus-graph"
   },
   "keywords": [
     "react-native"
