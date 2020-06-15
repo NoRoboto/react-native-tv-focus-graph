@@ -29,11 +29,10 @@ export function FocusableNode({
     }
   }, [activeId]);
 
-  const styles =
-    StyleSheet.flatten([
-      defaultContainerStyles.button,
-      isActive && defaultContainerStyles.active,
-    ]) || contentContainerStyle;
+  const styles = contentContainerStyle || StyleSheet.flatten([
+    defaultContainerStyles.button,
+    isActive && defaultContainerStyles.active,
+  ]);
 
   return (
     <View hasTVPreferredFocus={isActive} style={styles}>
