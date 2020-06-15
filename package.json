@@ -1,7 +1,7 @@
 {
   "name": "react-native-focus-graph",
   "title": "React Native Focus Graph",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "Small utility to manage focus at a logical level (pure js)",
   "main": "index.js",
   "files": [
